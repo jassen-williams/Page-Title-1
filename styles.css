@@ -29,3 +29,8 @@ justify-content:center;
  align-items:center;
  height:150px;
 }
+
+body {
+    background: url('https://i.pinimg.com/originals/25/8f/18/258f18da8dfe10d36704f9dccaaa17dd.jpg');
+    Background-size:cover;
+}
